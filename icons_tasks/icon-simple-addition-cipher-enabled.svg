@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128" height="128" viewBox="0, 0, 128, 128">
+  <g id="Background">
+    <rect x="0" y="0" width="128" height="128" fill="#FFFFFF"/>
+    <g stroke-width="1px">
+      <line x1="8" y1="0" x2="8" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="16" y1="0" x2="16" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="24" y1="0" x2="24" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="32" y1="0" x2="32" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="40" y1="0" x2="40" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="48" y1="0" x2="48" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="56" y1="0" x2="56" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="64" y1="0" x2="64" y2="128" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="72" y1="0" x2="72" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="80" y1="0" x2="80" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="88" y1="0" x2="88" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="96" y1="0" x2="96" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="104" y1="0" x2="104" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="112" y1="0" x2="112" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="120" y1="0" x2="120" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="128" y1="0" x2="128" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="8" x2="128" y2="8" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="16" x2="128" y2="16" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="24" x2="128" y2="24" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="32" x2="128" y2="32" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="40" x2="128" y2="40" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="48" x2="128" y2="48" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="56" x2="128" y2="56" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="64" x2="128" y2="64" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="0" y1="72" x2="128" y2="72" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="80" x2="128" y2="80" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="88" x2="128" y2="88" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="96" x2="128" y2="96" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="104" x2="128" y2="104" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="112" x2="128" y2="112" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="120" x2="128" y2="120" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="128" x2="128" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+    </g>
+  </g>
+  <g id="Image">
+    <image xlink:href="data:image/png;base64,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" opacity="1" x="0" y="0" width="128" height="128" preserveAspectRatio="xMidYMid" clip-path="url(#Clip_1)"/>
+    <g>
+      <path d="M88.701,110.461 L85.509,106.562 L82.436,110.364 L79.389,106.626 L76.33,110.364 L73.31,106.626 L69.323,111.508 L64.25,111.573 C62.077,116.261 57.958,119.468 53.229,119.468 C46.196,119.468 40.5,112.539 40.5,103.984 C40.5,95.428 46.196,88.5 53.229,88.5 C57.905,88.5 61.945,91.642 64.17,96.234 L89.787,96.298 L94.079,101.583 C94.754,102.405 94.701,103.098 94.105,103.855 L88.781,110.429 M47.666,107.915 C49.56,107.915 51.083,106.03 51.083,103.726 C51.083,101.47 49.56,99.569 47.666,99.569 C45.772,99.569 44.249,101.47 44.249,103.726 C44.249,106.03 45.759,107.915 47.666,107.915" fill="#79B7E6"/>
+      <path d="M88.701,110.461 L85.509,106.562 L82.436,110.364 L79.389,106.626 L76.33,110.364 L73.31,106.626 L69.323,111.508 L64.25,111.573 C62.077,116.261 57.958,119.468 53.229,119.468 C46.196,119.468 40.5,112.539 40.5,103.984 C40.5,95.428 46.196,88.5 53.229,88.5 C57.905,88.5 61.945,91.642 64.17,96.234 L89.787,96.298 L94.079,101.583 C94.754,102.405 94.701,103.098 94.105,103.855 L88.781,110.429 M47.666,107.915 C49.56,107.915 51.083,106.03 51.083,103.726 C51.083,101.47 49.56,99.569 47.666,99.569 C45.772,99.569 44.249,101.47 44.249,103.726 C44.249,106.03 45.759,107.915 47.666,107.915" fill-opacity="0" stroke="#79B7E6" stroke-width="1"/>
+    </g>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 64, 32)">
+        <tspan x="-45.666" y="11" font-family="HelveticaNeue-Bold" font-size="36" fill="#79B7E6">TEXT</tspan>
+      </text>
+      <path d="M26.506,22.048 L26.506,43 L32.158,43 L32.158,22.048 L39.862,22.048 L39.862,17.296 L18.802,17.296 L18.802,22.048 z M42.814,17.296 L42.814,43 L62.326,43 L62.326,38.248 L48.466,38.248 L48.466,31.948 L60.922,31.948 L60.922,27.556 L48.466,27.556 L48.466,22.048 L62.038,22.048 L62.038,17.296 z M72.442,29.536 L63.478,43 L69.814,43 L75.538,34.108 L81.154,43 L87.886,43 L78.922,29.572 L87.166,17.296 L80.974,17.296 L75.754,25.504 L70.714,17.296 L64.162,17.296 z M95.842,22.048 L95.842,43 L101.494,43 L101.494,22.048 L109.198,22.048 L109.198,17.296 L88.138,17.296 L88.138,22.048 z" fill="#79B7E6"/>
+    </g>
+    <path d="M61.944,63.984 L61.944,56.82 L58.092,56.82 L58.092,63.984 L50.928,63.984 L50.928,67.836 L58.092,67.836 L58.092,75 L61.944,75 L61.944,67.836 L69.108,67.836 L69.108,63.984 z" fill="#79B7E6"/>
+  </g>
+  <defs>
+    <clipPath id="Clip_1">
+      <path d="M0,0 L128,0 L128,128 L0,128 z"/>
+    </clipPath>
+  </defs>
+</svg>
