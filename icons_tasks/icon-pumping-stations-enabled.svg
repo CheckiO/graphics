@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128" height="128" viewBox="0, 0, 128, 128">
+  <g id="Background">
+    <rect x="0" y="0" width="128" height="128" fill="#FFFFFF"/>
+    <g stroke-width="1px">
+      <line x1="8" y1="0" x2="8" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="16" y1="0" x2="16" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="24" y1="0" x2="24" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="32" y1="0" x2="32" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="40" y1="0" x2="40" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="48" y1="0" x2="48" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="56" y1="0" x2="56" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="64" y1="0" x2="64" y2="128" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="72" y1="0" x2="72" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="80" y1="0" x2="80" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="88" y1="0" x2="88" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="96" y1="0" x2="96" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="104" y1="0" x2="104" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="112" y1="0" x2="112" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="120" y1="0" x2="120" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="128" y1="0" x2="128" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="8" x2="128" y2="8" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="16" x2="128" y2="16" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="24" x2="128" y2="24" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="32" x2="128" y2="32" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="40" x2="128" y2="40" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="48" x2="128" y2="48" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="56" x2="128" y2="56" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="64" x2="128" y2="64" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="0" y1="72" x2="128" y2="72" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="80" x2="128" y2="80" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="88" x2="128" y2="88" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="96" x2="128" y2="96" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="104" x2="128" y2="104" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="112" x2="128" y2="112" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="120" x2="128" y2="120" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="128" x2="128" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+    </g>
+  </g>
+  <g id="Image">
+    <image xlink:href="data:image/png;base64,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" opacity="1" x="-0.044" y="0.203" width="128" height="128" preserveAspectRatio="xMidYMid" clip-path="url(#Clip_1)"/>
+    <path d="M21.107,92.227 L20.43,96 L16,95.976 L23.584,54.239 L19.207,54.191 L19.207,38.994 L32.003,32 L44.806,38.994 L44.806,54.183 L40.429,54.231 L48,95.968 L43.583,95.992 L42.907,92.235 L32.003,76.045 L21.107,92.227 z M22.894,82.397 L29.591,72.448 L25.727,66.736 L22.894,82.397 z M37.241,61.072 L36.012,54.223 L28.001,54.223 L26.772,61.064 L32.003,68.891 L37.241,61.072 z M38.273,66.736 L34.409,72.448 L41.106,82.397 L38.273,66.736 z M24.012,48.791 L39.995,48.791 L39.995,41.125 L24.012,41.125 L24.012,48.791 z" fill="#79B7E6"/>
+    <path d="M85.107,92.227 L84.43,96 L80,95.976 L87.584,54.239 L83.207,54.191 L83.207,38.994 L96.003,32 L108.806,38.994 L108.806,54.183 L104.429,54.231 L112,95.968 L107.583,95.992 L106.907,92.235 L96.003,76.045 L85.107,92.227 z M86.894,82.397 L93.591,72.448 L89.727,66.736 L86.894,82.397 z M101.241,61.072 L100.012,54.223 L92.001,54.223 L90.772,61.064 L96.003,68.891 L101.241,61.072 z M102.273,66.736 L98.409,72.448 L105.106,82.397 L102.273,66.736 z M88.012,48.791 L103.995,48.791 L103.995,41.125 L88.012,41.125 L88.012,48.791 z" fill="#79B7E6"/>
+    <path d="M49.473,63.897 L78.483,63.897 L78.483,71.897 L49.473,71.897 z" fill="#79B7E6"/>
+    <path d="M50.236,62.504 L50.236,62.504 C50.643,62.504 50.973,62.834 50.973,63.241 L50.973,72.749 C50.973,73.156 50.643,73.486 50.236,73.486 L50.236,73.486 C49.829,73.486 49.499,73.156 49.499,72.749 L49.499,63.241 C49.499,62.834 49.829,62.504 50.236,62.504 z" fill="#79B7E6"/>
+    <path d="M77.772,62.413 L77.772,62.413 C78.179,62.413 78.509,62.743 78.509,63.15 L78.509,72.658 C78.509,73.065 78.179,73.395 77.772,73.395 L77.772,73.395 C77.365,73.395 77.035,73.065 77.035,72.658 L77.035,63.15 C77.035,62.743 77.365,62.413 77.772,62.413 z" fill="#79B7E6"/>
+  </g>
+  <defs>
+    <clipPath id="Clip_1">
+      <path d="M-0.044,0.203 L127.956,0.203 L127.956,128.203 L-0.044,128.203 z"/>
+    </clipPath>
+  </defs>
+</svg>
