@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200" height="550" viewBox="0, 0, 1200, 550">
+  <g id="Background">
+    <rect x="0" y="0" width="1200" height="550" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Layer 1">
+    <text transform="matrix(1, 0, 0, 1, 156.081, 142.717)">
+      <tspan x="-119.145" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">Operator priority</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 789.596, 70.717)">
+      <tspan x="-41.13" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">Crazy</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1033.029, 66)">
+      <tspan x="-104.955" y="11" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">How it look for </tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 787.717, 142.717)">
+      <tspan x="-71.91" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">2*2+2*2=8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 982.339, 142.717)">
+      <tspan x="-63.45" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">2*(2+2)*2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 160.072, 226.717)">
+      <tspan x="-122.745" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">Right associative</tspan>
+    </text>
+    <path d="M893.814,12.5 L893.814,504.5" fill-opacity="0" stroke="#202C4C" stroke-width="2"/>
+    <path d="M12.5,12.5 L1176.5,12.5" fill-opacity="0" stroke="#202C4C" stroke-width="2"/>
+    <path d="M1176.5,12.5 L1176.5,504.5" fill-opacity="0" stroke="#202C4C" stroke-width="2"/>
+    <path d="M12.5,106.5 L1176.5,106.5" fill-opacity="0" stroke="#202C4C" stroke-width="2"/>
+    <path d="M12.5,12.5 L12.5,504.5" fill-opacity="0" stroke="#202C4C" stroke-width="2"/>
+    <text transform="matrix(1, 0, 0, 1, 520.942, 142.717)">
+      <tspan x="-134.355" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">"*" = "/" &lt; "+" = "-"</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 419.718, 215.837)">
+      <tspan x="-32.22" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">a - b</tspan>
+    </text>
+    <g>
+      <path d="M454.322,248.9 L399.607,248.9" fill-opacity="0" stroke="#202C4C" stroke-width="2"/>
+      <path d="M399.607,245.3 L390.007,248.9 L399.607,252.5 z" fill="#202C4C" fill-opacity="1" stroke="#202C4C" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 539.426, 214.717)">
+      <tspan x="-31.68" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">a / b</tspan>
+    </text>
+    <g>
+      <path d="M574.029,247.78 L519.315,247.78" fill-opacity="0" stroke="#202C4C" stroke-width="2"/>
+      <path d="M519.315,244.18 L509.715,247.78 L519.315,251.38 z" fill="#202C4C" fill-opacity="1" stroke="#202C4C" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <path d="M694.271,12.5 L694.271,504.5" fill-opacity="0" stroke="#202C4C" stroke-width="2"/>
+    <text transform="matrix(1, 0, 0, 1, 773.143, 226.717)">
+      <tspan x="-54.03" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">2-4/4=2</tspan>
+    </text>
+    <path d="M361.7,12.5 L361.7,504.5" fill-opacity="0" stroke="#000000" stroke-width="2"/>
+    <text transform="matrix(1, 0, 0, 1, 962.518, 226.717)">
+      <tspan x="-45.57" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">4/(4-2)</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 170.517, 310.717)">
+      <tspan x="-137.58" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">Only digits and +-*/</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 504, 311.212)">
+      <tspan x="-122.625" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#7DB2D5">(</tspan>
+      <tspan x="-113.745" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">123</tspan>
+      <tspan x="-63.705" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#7DB2D5">)</tspan>
+      <tspan x="-54.825" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">+</tspan>
+      <tspan x="-36.825" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#7DB2D5">[</tspan>
+      <tspan x="-26.835" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">1</tspan>
+      <tspan x="-10.155" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#7DB2D5">]</tspan>
+      <tspan x="-0.165" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">-2/</tspan>
+      <tspan x="39.855" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#7DB2D5">{</tspan>
+      <tspan x="49.845" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">3</tspan>
+      <tspan x="66.525" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#7DB2D5">}</tspan>
+      <tspan x="76.515" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">*9</tspan>
+      <tspan x="105.405" y="5.788" font-family="HelveticaNeue-Bold" font-size="30" fill="#7DB2D5">a</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 780.8, 310.717)">
+      <tspan x="-65.67" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">(a1*2)+3x</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 956.481, 310.717)">
+      <tspan x="-40.125" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">1*2+3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 536.631, 70.717)">
+      <tspan x="-40.26" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">Rules</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 125.9, 394.717)">
+      <tspan x="-91.92" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">Zero division</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 448.22, 396)">
+      <tspan x="-57.93" y="5" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">0 / X = 0</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 763.883, 394.717)">
+      <tspan x="-39.585" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">0/9=0</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 949.259, 394.717)">
+      <tspan x="-22.785" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">9*0</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 178.399, 478.717)">
+      <tspan x="-144.69" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">Final floor to integer</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 450.514, 484.2)">
+      <tspan x="-51.525" y="0.8" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">X.Y = X</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 762.336, 478.717)">
+      <tspan x="-38.19" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">2.9=2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 981.906, 478.717)">
+      <tspan x="-63.06" y="6.283" font-family="HelveticaNeue-Bold" font-size="30" fill="#202C4C">floor(2.9)</tspan>
+    </text>
+    <path d="M12.5,504.5 L1176.5,504.5" fill-opacity="0" stroke="#202C4C" stroke-width="2"/>
+  </g>
+  <defs/>
+</svg>
