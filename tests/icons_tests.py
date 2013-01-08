@@ -30,5 +30,11 @@ class IconTest(unittest.TestCase):
         size = self.svg.get_size()
         self.assertEqual(size, settings.SIZE, "Wrong size {0}x{1} for {2}".format(size[0], size[1], self.filename))
 
+    def test_opacity_background(self):
+        for elem in self.svg.get_backgrounds():
+            for child_elem in elem.getchildren():
+                opacity = child_elem.get('fill-opacity')
+                self.assertEqual(opacity, '0', "Wrong opacity {0} for {1}".format(opacity, self.filename))
+
 if __name__ == '__main__':
     unittest.TextTestRunner(verbosity=2).run(suite())
