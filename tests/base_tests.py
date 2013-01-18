@@ -2,14 +2,14 @@
 __author__ = 'bryukh'
 import unittest
 import os
-import icons_settings as settings
+import all_settings as settings
 from svg import SvgReader
 
-PATHS = ['icons_tasks/', 'badges/', 'icons_interface/']
+PATHS = ['icons_tasks/',] #, 'badges/', 'icons_interface/']
 #ALT_PATH = './icons_tasks'
 
-def suite():
-    paths = [path for path in PATHS if os.path.exists(path)]
+def suite(classTest, search_paths, settings):
+    paths = [path for path in search_paths if os.path.exists(path)]
     print(paths)
     svgfiles = []
     for path in paths:
@@ -17,22 +17,23 @@ def suite():
             svgfiles.extend([os.path.join(dirpath, file) for file in files if file[-3:] == 'svg'])
     print(svgfiles)
     test_suite = unittest.TestSuite()
-    tests_names = unittest.TestLoader().getTestCaseNames(IconTest)
+    tests_names = unittest.TestLoader().getTestCaseNames(classTest)
     for filename in svgfiles:
         svg = SvgReader(filename)
-        test_suite.addTests([IconTest(svg, filename, methodName=test_name) for test_name in tests_names])
+        test_suite.addTests([classTest(svg, filename, settings, methodName=test_name) for test_name in tests_names])
     return test_suite
 
 
-class IconTest(unittest.TestCase):
-    def __init__(self, svg, filename, *args, **kwargs):
+class SvgTest(unittest.TestCase):
+    def __init__(self, svg, filename, settings, *args, **kwargs):
         self.svg = svg
         self.filename = filename
+        self.settings = settings
         unittest.TestCase.__init__(self, *args, **kwargs)
 
     def test_size(self):
         size = self.svg.get_size()
-        self.assertEqual(size, settings.SIZE, "Wrong size {0}x{1} for file {2}".format(size[0], size[1], self.filename))
+        self.assertEqual(size, self.settings['size'], "Wrong size {0}x{1} for file {2}".format(size[0], size[1], self.filename))
 
     def test_opacity_background(self):
         for elem in self.svg.get_backgrounds():
@@ -43,9 +44,6 @@ class IconTest(unittest.TestCase):
     def test_colors(self):
         elements_colors = self.svg.get_elements_colors()
         for el in elements_colors:
-            self.assertIn(el['color'], settings.COLORS,
+            self.assertIn(el['color'], self.settings['colors'],
                 'Wrong color {0} {1} in tag {2} id {3} for file {4}'.format(el['color'],
                     el['type'], el['tag'], el['id'], self.filename))
-
-if __name__ == '__main__':
-    unittest.TextTestRunner(verbosity=2).run(suite())
