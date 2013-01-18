@@ -15,4 +15,4 @@ if __name__ == '__main__':
         'size': all_settings.ICONS_INTERFACE_SIZE,
         'colors': all_settings.COLORS
     }
-    unittest.TextTestRunner(verbosity=2).run(suite(IconInterfaceTest, PATHS, settings))
+    unittest.TextTestRunner(verbosity=1).run(suite(IconInterfaceTest, PATHS, settings))

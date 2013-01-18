@@ -5,17 +5,14 @@ import os
 import all_settings as settings
 from svg import SvgReader
 
-PATHS = ['icons_tasks/',] #, 'badges/', 'icons_interface/']
-#ALT_PATH = './icons_tasks'
+PATHS = ['icons_tasks/',]
 
 def suite(classTest, search_paths, settings):
     paths = [path for path in search_paths if os.path.exists(path)]
-    print(paths)
     svgfiles = []
     for path in paths:
         for dirpath, dirnames, files in os.walk(path):
             svgfiles.extend([os.path.join(dirpath, file) for file in files if file[-3:] == 'svg'])
-    print(svgfiles)
     test_suite = unittest.TestSuite()
     tests_names = unittest.TestLoader().getTestCaseNames(classTest)
     for filename in svgfiles:

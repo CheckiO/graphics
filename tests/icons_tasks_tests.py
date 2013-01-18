@@ -5,7 +5,7 @@ import all_settings
 
 from base_tests import SvgTest, suite
 
-PATHS = ['icons_tasks/',] #, 'badges/', 'icons_interface/']
+PATHS = ['icons_tasks/',]
 
 class IconTaskTest(SvgTest):
     pass
@@ -15,4 +15,4 @@ if __name__ == '__main__':
                     'size': all_settings.ICONS_TASKS_SIZE,
                     'colors': all_settings.COLORS
                 }
-    unittest.TextTestRunner(verbosity=2).run(suite(IconTaskTest, PATHS, settings))
+    unittest.TextTestRunner(verbosity=1).run(suite(IconTaskTest, PATHS, settings))
