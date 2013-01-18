@@ -1,2 +1,2 @@
 #!/bin/sh
-python tests//icons_tests.py
+python tests/icons_tests.py
