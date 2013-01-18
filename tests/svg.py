@@ -13,7 +13,7 @@ class SvgReader(object):
         self.xlmns = temp_re.group() if temp_re else {}
 
     def get_size(self):
-        return int(self.root.attrib['width']), int(self.root.attrib['height'])
+        return int(self.root.attrib['width'].replace('px', '')), int(self.root.attrib['height'].replace('px', ''))
 
     def get_backgrounds(self):
         return (el for el in self.elements if el.attrib.get('id', '') == 'Background')
