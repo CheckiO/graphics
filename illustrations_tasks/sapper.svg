@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="686px" height="319px" viewBox="0 0 686 319" enable-background="new 0 0 686 319" xml:space="preserve">
+<text transform="matrix(1 0 0 1 22.8359 43.7979)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">checkio([</tspan><tspan x="0" y="23.112" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602" letter-spacing="51">	</tspan><tspan x="57.781" y="23.112" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">[</tspan><tspan x="66.527" y="23.112" fill="#737370" font-family="'Verdana'" font-size="19.2602">None</tspan><tspan x="116.285" y="23.112" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, </tspan><tspan x="130.062" y="23.112" fill="#294270" font-family="'Verdana'" font-size="19.2602">1</tspan><tspan x="142.307" y="23.112" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, </tspan><tspan x="156.084" y="23.112" fill="#F0801B" font-family="'Verdana'" font-size="19.2602">&apos;M&apos;</tspan><tspan x="182.661" y="23.112" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">],</tspan><tspan x="0" y="46.225" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602" letter-spacing="51">	</tspan><tspan x="57.781" y="46.225" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">[</tspan><tspan x="66.527" y="46.225" fill="#737370" font-family="'Verdana'" font-size="19.2602">None</tspan><tspan x="116.285" y="46.225" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, </tspan><tspan x="130.062" y="46.225" fill="#294270" font-family="'Verdana'" font-size="19.2602">3</tspan><tspan x="142.307" y="46.225" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, </tspan><tspan x="156.084" y="46.225" fill="#294270" font-family="'Verdana'" font-size="19.2602">2</tspan><tspan x="168.329" y="46.225" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">],</tspan><tspan x="0" y="69.337" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602" letter-spacing="51">	</tspan><tspan x="57.781" y="69.337" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">[</tspan><tspan x="66.527" y="69.337" fill="#737370" font-family="'Verdana'" font-size="19.2602">None</tspan><tspan x="116.285" y="69.337" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, </tspan><tspan x="130.062" y="69.337" fill="#294270" font-family="'Verdana'" font-size="19.2602">2</tspan><tspan x="142.307" y="69.337" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, </tspan><tspan x="156.084" y="69.337" fill="#F0801B" font-family="'Verdana'" font-size="19.2602">&apos;M&apos;</tspan><tspan x="182.661" y="69.337" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">]</tspan><tspan x="0" y="92.449" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">]) == </tspan><tspan x="62.558" y="92.449" fill="#F28E14" font-family="'Verdana'" font-size="19.2602">[</tspan><tspan x="71.304" y="92.449" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">False</tspan><tspan x="120.734" y="92.449" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, 2, 1</tspan><tspan x="172.778" y="92.449" fill="#F28E14" font-family="'Verdana'" font-size="19.2602">]</tspan></text>
+<g>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#184172" points="260.365,93.548 265.182,93.548 265.182,97.483 
+		276.259,89.606 265.182,81.729 265.182,85.669 260.365,85.669 	"/>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7FC0EA" points="249.022,93.605 259.592,93.605 259.592,97.543 
+		270.667,89.667 259.592,81.788 259.592,85.728 249.022,85.728 	"/>
+</g>
+<g>
+	<rect x="323" y="39" fill="#C6C6C6" width="32" height="32"/>
+	<polygon fill="#EBEDED" points="323,71 327,67 327,43 351,43 355,39 323,39 	"/>
+	<polygon fill="#9D9E9E" points="355,39 351,43 351,67 327,67 323,71 355,71 	"/>
+</g>
+<g>
+	<rect x="323" y="71" fill="#C6C6C6" width="32" height="32"/>
+	<polygon fill="#EBEDED" points="323,103 327,99 327,75 351,75 355,71 323,71 	"/>
+	<polygon fill="#9D9E9E" points="355,71 351,75 351,99 327,99 323,103 355,103 	"/>
+</g>
+<g>
+	<rect x="323" y="103" fill="#C6C6C6" width="32" height="32"/>
+	<polygon fill="#EBEDED" points="323,135 327,131 327,107 351,107 355,103 323,103 	"/>
+	<polygon fill="#9D9E9E" points="355,103 351,107 351,131 327,131 323,135 355,135 	"/>
+</g>
+<g>
+	<g>
+		<rect x="354.925" y="39" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="354.925,71 358.925,67 358.925,43 382.925,43 386.925,39 354.925,39 		"/>
+		<polygon fill="#8FC6ED" points="386.925,39 382.925,43 382.925,67 358.925,67 354.925,71 386.925,71 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="386.925" y="39" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="386.925,71 390.925,67 390.925,43 414.925,43 418.925,39 386.925,39 		"/>
+		<polygon fill="#8FC6ED" points="418.925,39 414.925,43 414.925,67 390.925,67 386.925,71 418.925,71 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="354.925" y="71" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="354.925,103 358.925,99 358.925,75 382.925,75 386.925,71 354.925,71 		"/>
+		<polygon fill="#8FC6ED" points="386.925,71 382.925,75 382.925,99 358.925,99 354.925,103 386.925,103 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="386.925" y="71" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="386.925,103 390.925,99 390.925,75 414.925,75 418.925,71 386.925,71 		"/>
+		<polygon fill="#8FC6ED" points="418.925,71 414.925,75 414.925,99 390.925,99 386.925,103 418.925,103 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="354.925" y="103" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="354.925,135 358.925,131 358.925,107 382.925,107 386.925,103 354.925,103 		"/>
+		<polygon fill="#8FC6ED" points="386.925,103 382.925,107 382.925,131 358.925,131 354.925,135 386.925,135 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="386.925" y="103" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="386.925,135 390.925,131 390.925,107 414.925,107 418.925,103 386.925,103 		"/>
+		<polygon fill="#8FC6ED" points="418.925,103 414.925,107 414.925,131 390.925,131 386.925,135 418.925,135 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 364.2505 61.9673)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">1</text>
+<text transform="matrix(1 0 0 1 364.2505 93.7173)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">3</text>
+<text transform="matrix(1 0 0 1 396.3008 93.7173)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">2</text>
+<text transform="matrix(1 0 0 1 364.2505 125.4673)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">2</text>
+<g>
+	<polygon fill="#F28E14" points="322.917,103 324.917,101 324.917,73 352.917,73 354.917,71 322.917,71 	"/>
+	<polygon fill="#FABA05" points="354.917,71 352.917,73 352.917,101 324.917,101 322.917,103 354.917,103 	"/>
+</g>
+<g>
+	<g>
+		<polygon fill="#294270" points="413.221,64.985 393.221,64.985 393.221,61.235 395.721,58.736 410.721,58.736 413.221,61.235 		
+			"/>
+		<rect x="403.221" y="56.235" fill="#294270" width="2.5" height="2.5"/>
+		<polygon fill="#FABA05" points="405.721,56.235 403.221,56.235 395.721,52.485 395.721,49.985 403.221,46.235 405.721,46.235 		
+			"/>
+		<polyline fill="#294270" points="403.221,44.985 405.721,44.985 405.721,46.235 403.221,46.235 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#294270" points="413.221,128.735 393.221,128.735 393.221,124.985 395.721,122.486 410.721,122.486 
+			413.221,124.985 		"/>
+		<rect x="403.221" y="119.985" fill="#294270" width="2.5" height="2.5"/>
+		<polygon fill="#FABA05" points="405.721,119.985 403.221,119.985 395.721,116.235 395.721,113.735 403.221,109.985 
+			405.721,109.985 		"/>
+		<polyline fill="#294270" points="403.221,108.735 405.721,108.735 405.721,109.985 403.221,109.985 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 22.8359 196.4644)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">checkio([</tspan><tspan x="0" y="23.112" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602" letter-spacing="51">	</tspan><tspan x="57.781" y="23.112" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">[</tspan><tspan x="66.527" y="23.112" fill="#737370" font-family="'Verdana'" font-size="19.2602">None</tspan><tspan x="116.285" y="23.112" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, </tspan><tspan x="130.062" y="23.112" fill="#294270" font-family="'Verdana'" font-size="19.2602">1</tspan><tspan x="142.307" y="23.112" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, </tspan><tspan x="156.084" y="23.112" fill="#F0801B" font-family="'Verdana'" font-size="19.2602">&apos;M&apos;</tspan><tspan x="182.661" y="23.112" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">],</tspan><tspan x="0" y="46.225" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602" letter-spacing="51">	</tspan><tspan x="57.781" y="46.225" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">[</tspan><tspan x="66.527" y="46.225" fill="#737370" font-family="'Verdana'" font-size="19.2602">None</tspan><tspan x="116.285" y="46.225" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, </tspan><tspan x="130.062" y="46.225" fill="#294270" font-family="'Verdana'" font-size="19.2602">3</tspan><tspan x="142.307" y="46.225" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, </tspan><tspan x="156.084" y="46.225" fill="#294270" font-family="'Verdana'" font-size="19.2602">2</tspan><tspan x="168.329" y="46.225" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">],</tspan><tspan x="0" y="69.337" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602" letter-spacing="51">	</tspan><tspan x="57.781" y="69.337" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">[</tspan><tspan x="66.527" y="69.337" fill="#737370" font-family="'Verdana'" font-size="19.2602">None</tspan><tspan x="116.285" y="69.337" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, </tspan><tspan x="130.062" y="69.337" fill="#294270" font-family="'Verdana'" font-size="19.2602">2</tspan><tspan x="142.307" y="69.337" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, </tspan><tspan x="156.084" y="69.337" fill="#F0801B" font-family="'Verdana'" font-size="19.2602">&apos;M&apos;</tspan><tspan x="182.661" y="69.337" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">]</tspan><tspan x="0" y="92.449" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">]) == </tspan><tspan x="62.558" y="92.449" fill="#F28E14" font-family="'Verdana'" font-size="19.2602">[</tspan><tspan x="71.304" y="92.449" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">False</tspan><tspan x="120.734" y="92.449" fill="#1D1D1B" font-family="'Verdana'" font-size="19.2602">, 2, 1</tspan><tspan x="172.778" y="92.449" fill="#F28E14" font-family="'Verdana'" font-size="19.2602">]</tspan></text>
+<g>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#184172" points="260.365,246.214 265.182,246.214 265.182,250.15 
+		276.259,242.273 265.182,234.395 265.182,238.335 260.365,238.335 	"/>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7FC0EA" points="249.022,246.272 259.592,246.272 259.592,250.209 
+		270.667,242.333 259.592,234.455 259.592,238.394 249.022,238.394 	"/>
+</g>
+<g>
+	<rect x="323" y="191.667" fill="#C6C6C6" width="32" height="32"/>
+	<polygon fill="#EBEDED" points="323,223.667 327,219.667 327,195.667 351,195.667 355,191.667 323,191.667 	"/>
+	<polygon fill="#9D9E9E" points="355,191.667 351,195.667 351,219.667 327,219.667 323,223.667 355,223.667 	"/>
+</g>
+<g>
+	<rect x="323" y="255.667" fill="#C6C6C6" width="32" height="32"/>
+	<polygon fill="#EBEDED" points="323,287.667 327,283.667 327,259.667 351,259.667 355,255.667 323,255.667 	"/>
+	<polygon fill="#9D9E9E" points="355,255.667 351,259.667 351,283.667 327,283.667 323,287.667 355,287.667 	"/>
+</g>
+<g>
+	<g>
+		<rect x="354.925" y="191.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="354.925,223.667 358.925,219.667 358.925,195.667 382.925,195.667 386.925,191.667 
+			354.925,191.667 		"/>
+		<polygon fill="#8FC6ED" points="386.925,191.667 382.925,195.667 382.925,219.667 358.925,219.667 354.925,223.667 
+			386.925,223.667 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="386.925" y="191.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="386.925,223.667 390.925,219.667 390.925,195.667 414.925,195.667 418.925,191.667 
+			386.925,191.667 		"/>
+		<polygon fill="#8FC6ED" points="418.925,191.667 414.925,195.667 414.925,219.667 390.925,219.667 386.925,223.667 
+			418.925,223.667 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="354.925" y="223.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="354.925,255.667 358.925,251.667 358.925,227.667 382.925,227.667 386.925,223.667 
+			354.925,223.667 		"/>
+		<polygon fill="#8FC6ED" points="386.925,223.667 382.925,227.667 382.925,251.667 358.925,251.667 354.925,255.667 
+			386.925,255.667 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="386.925" y="223.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="386.925,255.667 390.925,251.667 390.925,227.667 414.925,227.667 418.925,223.667 
+			386.925,223.667 		"/>
+		<polygon fill="#8FC6ED" points="418.925,223.667 414.925,227.667 414.925,251.667 390.925,251.667 386.925,255.667 
+			418.925,255.667 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="354.925" y="255.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="354.925,287.667 358.925,283.667 358.925,259.667 382.925,259.667 386.925,255.667 
+			354.925,255.667 		"/>
+		<polygon fill="#8FC6ED" points="386.925,255.667 382.925,259.667 382.925,283.667 358.925,283.667 354.925,287.667 
+			386.925,287.667 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="386.925" y="255.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="386.925,287.667 390.925,283.667 390.925,259.667 414.925,259.667 418.925,255.667 
+			386.925,255.667 		"/>
+		<polygon fill="#8FC6ED" points="418.925,255.667 414.925,259.667 414.925,283.667 390.925,283.667 386.925,287.667 
+			418.925,287.667 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 364.2505 214.6338)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">1</text>
+<text transform="matrix(1 0 0 1 364.2505 246.3838)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">3</text>
+<g>
+	<g>
+		<rect x="322.925" y="223.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="322.925,255.667 326.925,251.667 326.925,227.667 350.925,227.667 354.925,223.667 
+			322.925,223.667 		"/>
+		<polygon fill="#8FC6ED" points="354.925,223.667 350.925,227.667 350.925,251.667 326.925,251.667 322.925,255.667 
+			354.925,255.667 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 332.2505 246.3838)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">1</text>
+<text transform="matrix(1 0 0 1 396.3008 246.3838)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">2</text>
+<text transform="matrix(1 0 0 1 364.2505 278.1338)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">2</text>
+<g>
+	<polygon fill="#F28E14" points="322.917,287.667 324.917,285.667 324.917,257.667 352.917,257.667 354.917,255.667 
+		322.917,255.667 	"/>
+	<polygon fill="#FABA05" points="354.917,255.667 352.917,257.667 352.917,285.667 324.917,285.667 322.917,287.667 
+		354.917,287.667 	"/>
+</g>
+<g>
+	<g>
+		<polygon fill="#294270" points="413.221,217.652 393.221,217.652 393.221,213.902 395.721,211.402 410.721,211.402 
+			413.221,213.902 		"/>
+		<rect x="403.221" y="208.902" fill="#294270" width="2.5" height="2.5"/>
+		<polygon fill="#FABA05" points="405.721,208.902 403.221,208.902 395.721,205.152 395.721,202.652 403.221,198.902 
+			405.721,198.902 		"/>
+		<polyline fill="#294270" points="403.221,197.652 405.721,197.652 405.721,198.902 403.221,198.902 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#294270" points="413.221,281.402 393.221,281.402 393.221,277.652 395.721,275.152 410.721,275.152 
+			413.221,277.652 		"/>
+		<rect x="403.221" y="272.652" fill="#294270" width="2.5" height="2.5"/>
+		<polygon fill="#FABA05" points="405.721,272.652 403.221,272.652 395.721,268.902 395.721,266.402 403.221,262.652 
+			405.721,262.652 		"/>
+		<polyline fill="#294270" points="403.221,261.402 405.721,261.402 405.721,262.652 403.221,262.652 		"/>
+	</g>
+</g>
+<g>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#184172" points="473.439,246.214 478.257,246.214 478.257,250.15 
+		489.334,242.273 478.257,234.395 478.257,238.335 473.439,238.335 	"/>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7FC0EA" points="462.097,246.272 472.667,246.272 472.667,250.209 
+		483.741,242.333 472.667,234.455 472.667,238.394 462.097,238.394 	"/>
+</g>
+<g>
+	<g>
+		<rect x="568" y="191.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="568,223.667 572,219.667 572,195.667 596,195.667 600,191.667 568,191.667 		"/>
+		<polygon fill="#8FC6ED" points="600,191.667 596,195.667 596,219.667 572,219.667 568,223.667 600,223.667 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="536" y="191.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="536,223.667 540,219.667 540,195.667 564,195.667 568,191.667 536,191.667 		"/>
+		<polygon fill="#8FC6ED" points="568,191.667 564,195.667 564,219.667 540,219.667 536,223.667 568,223.667 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="600" y="191.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="600,223.667 604,219.667 604,195.667 628,195.667 632,191.667 600,191.667 		"/>
+		<polygon fill="#8FC6ED" points="632,191.667 628,195.667 628,219.667 604,219.667 600,223.667 632,223.667 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="568" y="223.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="568,255.667 572,251.667 572,227.667 596,227.667 600,223.667 568,223.667 		"/>
+		<polygon fill="#8FC6ED" points="600,223.667 596,227.667 596,251.667 572,251.667 568,255.667 600,255.667 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="600" y="223.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="600,255.667 604,251.667 604,227.667 628,227.667 632,223.667 600,223.667 		"/>
+		<polygon fill="#8FC6ED" points="632,223.667 628,227.667 628,251.667 604,251.667 600,255.667 632,255.667 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="568" y="255.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="568,287.667 572,283.667 572,259.667 596,259.667 600,255.667 568,255.667 		"/>
+		<polygon fill="#8FC6ED" points="600,255.667 596,259.667 596,283.667 572,283.667 568,287.667 600,287.667 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="600" y="255.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="600,287.667 604,283.667 604,259.667 628,259.667 632,255.667 600,255.667 		"/>
+		<polygon fill="#8FC6ED" points="632,255.667 628,259.667 628,283.667 604,283.667 600,287.667 632,287.667 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 577.3252 214.6338)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">1</text>
+<text transform="matrix(1 0 0 1 577.3252 246.3838)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">3</text>
+<g>
+	<g>
+		<rect x="536" y="223.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="536,255.667 540,251.667 540,227.667 564,227.667 568,223.667 536,223.667 		"/>
+		<polygon fill="#8FC6ED" points="568,223.667 564,227.667 564,251.667 540,251.667 536,255.667 568,255.667 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 545.3252 246.3838)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">1</text>
+<text transform="matrix(1 0 0 1 609.375 246.3838)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">2</text>
+<text transform="matrix(1 0 0 1 577.3252 278.1338)" fill="#294270" font-family="'Verdana-Bold'" font-size="19.2844">2</text>
+<g>
+	<g>
+		<polygon fill="#294270" points="626.295,217.652 606.295,217.652 606.295,213.902 608.795,211.402 623.795,211.402 
+			626.295,213.902 		"/>
+		<rect x="616.295" y="208.902" fill="#294270" width="2.5" height="2.5"/>
+		<polygon fill="#FABA05" points="618.795,208.902 616.295,208.902 608.795,205.152 608.795,202.652 616.295,198.902 
+			618.795,198.902 		"/>
+		<polyline fill="#294270" points="616.295,197.652 618.795,197.652 618.795,198.902 616.295,198.902 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#294270" points="626.295,281.402 606.295,281.402 606.295,277.652 608.795,275.152 623.795,275.152 
+			626.295,277.652 		"/>
+		<rect x="616.295" y="272.652" fill="#294270" width="2.5" height="2.5"/>
+		<polygon fill="#FABA05" points="618.795,272.652 616.295,272.652 608.795,268.902 608.795,266.402 616.295,262.652 
+			618.795,262.652 		"/>
+		<polyline fill="#294270" points="616.295,261.402 618.795,261.402 618.795,262.652 616.295,262.652 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="536" y="255.667" fill="#66A1CF" width="32" height="32"/>
+		<polygon fill="#006DAA" points="536,287.667 540,283.667 540,259.667 564,259.667 568,255.667 536,255.667 		"/>
+		<polygon fill="#8FC6ED" points="568,255.667 564,259.667 564,283.667 540,283.667 536,287.667 568,287.667 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#294270" points="562.295,281.402 542.295,281.402 542.295,277.652 544.795,275.152 559.795,275.152 
+			562.295,277.652 		"/>
+		<rect x="552.295" y="272.652" fill="#294270" width="2.5" height="2.5"/>
+		<polygon fill="#FABA05" points="554.795,272.652 552.295,272.652 544.795,268.902 544.795,266.402 552.295,262.652 
+			554.795,262.652 		"/>
+		<polyline fill="#294270" points="552.295,261.402 554.795,261.402 554.795,262.652 552.295,262.652 		"/>
+	</g>
+</g>
+<g>
+	<polygon fill="#F28E14" points="535.992,287.667 537.992,285.667 537.992,257.667 565.992,257.667 567.992,255.667 
+		535.992,255.667 	"/>
+	<polygon fill="#FABA05" points="567.992,255.667 565.992,257.667 565.992,285.667 537.992,285.667 535.992,287.667 
+		567.992,287.667 	"/>
+</g>
+</svg>
