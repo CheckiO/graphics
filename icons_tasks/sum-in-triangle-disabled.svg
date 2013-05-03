@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128" height="128" viewBox="0, 0, 128, 128">
+  <g id="Background">
+    <rect x="0" y="0" width="128" height="128" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Background"/>
+  <g id="Image">
+    <path d="M28.483,5.723 L96.893,5.723 C110.035,5.723 120.688,16.468 120.688,29.723 L120.688,97.723 C120.688,110.978 110.035,121.723 96.893,121.723 L28.483,121.723 C15.34,121.723 4.688,110.978 4.688,97.723 L4.688,29.723 C4.688,16.468 15.34,5.723 28.483,5.723 z" fill="#737370"/>
+    <text transform="matrix(1, 0, 0, 1, 61.678, 26.821)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#EBEDED">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 28.531, 91)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#EBEDED">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 96.531, 91)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#EBEDED">1</tspan>
+    </text>
+    <path d="M36,72 L48,44" fill-opacity="0" stroke="#EBEDED" stroke-width="6" stroke-linecap="round"/>
+    <path d="M76,44 L88,72" fill-opacity="0" stroke="#EBEDED" stroke-width="6" stroke-linecap="round"/>
+    <path d="M44,92 L80,92" fill-opacity="0" stroke="#EBEDED" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <defs/>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128" height="128" viewBox="0, 0, 128, 128">
+  <g id="Background">
+    <rect x="0" y="0" width="128" height="128" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Background"/>
+  <g id="Image">
+    <path d="M28.483,5.723 L96.893,5.723 C110.035,5.723 120.688,16.468 120.688,29.723 L120.688,97.723 C120.688,110.978 110.035,121.723 96.893,121.723 L28.483,121.723 C15.34,121.723 4.688,110.978 4.688,97.723 L4.688,29.723 C4.688,16.468 15.34,5.723 28.483,5.723 z" fill="#737370"/>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 61.678, 26.821)">
+        <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#82D1F5">1</tspan>
+      </text>
+      <path d="M67.912,35.821 L56.264,35.821 L56.264,32.774 L59.943,32.774 L59.943,23.552 L56.264,23.552 L56.264,20.704 Q57.107,20.704 57.881,20.604 Q58.654,20.505 59.17,20.259 Q59.779,19.966 60.084,19.497 Q60.389,19.028 60.435,18.325 L64.314,18.325 L64.314,32.774 L67.912,32.774 z" fill-opacity="0" stroke="#82D1F5" stroke-width="1" stroke-linecap="round"/>
+    </g>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 28.531, 91)">
+        <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#82D1F5">1</tspan>
+      </text>
+      <path d="M34.766,100 L23.117,100 L23.117,96.953 L26.797,96.953 L26.797,87.73 L23.117,87.73 L23.117,84.883 Q23.961,84.883 24.734,84.783 Q25.508,84.684 26.023,84.438 Q26.633,84.145 26.938,83.676 Q27.242,83.207 27.289,82.504 L31.168,82.504 L31.168,96.953 L34.766,96.953 z" fill-opacity="0" stroke="#82D1F5" stroke-width="1" stroke-linecap="round"/>
+    </g>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 96.531, 91)">
+        <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#82D1F5">1</tspan>
+      </text>
+      <path d="M102.766,100 L91.117,100 L91.117,96.953 L94.797,96.953 L94.797,87.73 L91.117,87.73 L91.117,84.883 Q91.961,84.883 92.734,84.783 Q93.508,84.684 94.023,84.438 Q94.633,84.145 94.938,83.676 Q95.242,83.207 95.289,82.504 L99.168,82.504 L99.168,96.953 L102.766,96.953 z" fill-opacity="0" stroke="#82D1F5" stroke-width="1" stroke-linecap="round"/>
+    </g>
+    <path d="M36,72 L48,44" fill-opacity="0" stroke="#82D1F5" stroke-width="6" stroke-linecap="round"/>
+    <path d="M76,44 L88,72" fill-opacity="0" stroke="#82D1F5" stroke-width="6" stroke-linecap="round"/>
+    <path d="M44,92 L80,92" fill-opacity="0" stroke="#82D1F5" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <defs/>
+</svg>
