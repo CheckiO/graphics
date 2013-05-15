@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200" height="1900" viewBox="0, 0, 1200, 1900">
+  <g id="Background">
+    <rect x="0" y="0" width="1200" height="1900" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Layer 1">
+    <g>
+      <path d="M80.5,520.5 L80.5,52.3" fill-opacity="0" stroke="#294270" stroke-width="2"/>
+      <path d="M84.1,52.3 L80.5,42.7 L76.9,52.3 z" fill="#294270" fill-opacity="1" stroke="#294270" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M40.5,480.5 L508.7,480.5" fill-opacity="0" stroke="#294270" stroke-width="2"/>
+      <path d="M508.7,484.1 L518.3,480.5 L508.7,476.9 z" fill="#294270" fill-opacity="1" stroke="#294270" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <path d="M120.5,60.5 L120.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M160.5,60.5 L160.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M200.5,60.5 L200.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M240.5,60.5 L240.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M280.5,60.5 L280.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M320.5,60.5 L320.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M360.5,60.5 L360.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M400.5,60.5 L400.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M440.5,60.5 L440.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M480.5,60.5 L480.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,80.5 L80.5,80.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,120.5 L80.5,120.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M500.5,160.5 L80.5,160.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,200.5 L80.5,200.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M500.5,240.5 L80.5,240.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,280.5 L80.5,280.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,320.5 L80.5,320.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M500.5,360.5 L80.5,360.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,400.5 L80.5,400.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M500.5,440.5 L80.5,440.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <text transform="matrix(1, 0, 0, 1, 63.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">0</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 440)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 400)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 360)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 320)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">4</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 280)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">5</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 240)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">6</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 200)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">7</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 160)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 120)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">9</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 57.063, 80)">
+      <tspan x="-17.062" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">10</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 118.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 158.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 198.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 238.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">4</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 278.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">5</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 318.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">6</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 358.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">7</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 398.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 438.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">9</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 482.062, 500)">
+      <tspan x="-17.062" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">10</tspan>
+    </text>
+    <g>
+      <path d="M720.5,520.5 L720.5,52.3" fill-opacity="0" stroke="#294270" stroke-width="2"/>
+      <path d="M724.1,52.3 L720.5,42.7 L716.9,52.3 z" fill="#294270" fill-opacity="1" stroke="#294270" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M680.5,480.5 L1148.7,480.5" fill-opacity="0" stroke="#294270" stroke-width="2"/>
+      <path d="M1148.7,484.1 L1158.3,480.5 L1148.7,476.9 z" fill="#294270" fill-opacity="1" stroke="#294270" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <path d="M760.5,60.5 L760.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M800.5,60.5 L800.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M840.5,60.5 L840.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M880.5,60.5 L880.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M920.5,60.5 L920.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M960.5,60.5 L960.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1000.5,60.5 L1000.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M1040.5,60.5 L1040.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1080.5,60.5 L1080.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M1120.5,60.5 L1120.5,480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,80.5 L720.5,80.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,120.5 L720.5,120.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M1140.5,160.5 L720.5,160.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,200.5 L720.5,200.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M1140.5,240.5 L720.5,240.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,280.5 L720.5,280.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,320.5 L720.5,320.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M1140.5,360.5 L720.5,360.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,400.5 L720.5,400.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1"/>
+    <path d="M1140.5,440.5 L720.5,440.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <text transform="matrix(1, 0, 0, 1, 703.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">0</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 440)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 400)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 360)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 320)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">4</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 280)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">5</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 240)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">6</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 200)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">7</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 160)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 120)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">9</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 697.062, 80)">
+      <tspan x="-17.062" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">10</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 758.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 798.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 838.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 878.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">4</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 918.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">5</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 958.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">6</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 998.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">7</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1038.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1078.531, 500)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">9</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1122.062, 500)">
+      <tspan x="-17.062" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">10</tspan>
+    </text>
+    <g>
+      <path d="M120.5,440.5 L440.5,120.5 L440.5,440.5 z" fill="#69B3E3" fill-opacity="0.5"/>
+      <path d="M120.5,440.5 L440.5,120.5 L440.5,440.5 z" fill-opacity="0" stroke="#294270" stroke-width="4"/>
+    </g>
+    <g>
+      <path d="M120.5,450.5 C114.977,450.5 110.5,446.023 110.5,440.5 C110.5,434.977 114.977,430.5 120.5,430.5 C126.023,430.5 130.5,434.977 130.5,440.5 C130.5,446.023 126.023,450.5 120.5,450.5 z" fill="#F0801A"/>
+      <path d="M120.5,450.5 C114.977,450.5 110.5,446.023 110.5,440.5 C110.5,434.977 114.977,430.5 120.5,430.5 C126.023,430.5 130.5,434.977 130.5,440.5 C130.5,446.023 126.023,450.5 120.5,450.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M440.5,130.5 C434.977,130.5 430.5,126.023 430.5,120.5 C430.5,114.977 434.977,110.5 440.5,110.5 C446.023,110.5 450.5,114.977 450.5,120.5 C450.5,126.023 446.023,130.5 440.5,130.5 z" fill="#F0801A"/>
+      <path d="M440.5,130.5 C434.977,130.5 430.5,126.023 430.5,120.5 C430.5,114.977 434.977,110.5 440.5,110.5 C446.023,110.5 450.5,114.977 450.5,120.5 C450.5,126.023 446.023,130.5 440.5,130.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M440.5,450.5 C434.977,450.5 430.5,446.023 430.5,440.5 C430.5,434.977 434.977,430.5 440.5,430.5 C446.023,430.5 450.5,434.977 450.5,440.5 C450.5,446.023 446.023,450.5 440.5,450.5 z" fill="#F0801A"/>
+      <path d="M440.5,450.5 C434.977,450.5 430.5,446.023 430.5,440.5 C430.5,434.977 434.977,430.5 440.5,430.5 C446.023,430.5 450.5,434.977 450.5,440.5 C450.5,446.023 446.023,450.5 440.5,450.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 255.576, 569.5)">
+      <tspan x="-175.576" y="-5.5" font-family="Verdana-Bold" font-size="24" fill="#294270">Input: [[1,1],[9,9],[9,1]]</tspan>
+      <tspan x="-175.576" y="23.5" font-family="Verdana-Bold" font-size="24" fill="#294270">Result: 32</tspan>
+    </text>
+    <g>
+      <path d="M760.5,320.5 L880.5,80.5 L1000.5,440.5 z" fill="#69B3E3" fill-opacity="0.5"/>
+      <path d="M760.5,320.5 L880.5,80.5 L1000.5,440.5 z" fill-opacity="0" stroke="#294270" stroke-width="4"/>
+    </g>
+    <g>
+      <path d="M760.5,330.5 C754.977,330.5 750.5,326.023 750.5,320.5 C750.5,314.977 754.977,310.5 760.5,310.5 C766.023,310.5 770.5,314.977 770.5,320.5 C770.5,326.023 766.023,330.5 760.5,330.5 z" fill="#F0801A"/>
+      <path d="M760.5,330.5 C754.977,330.5 750.5,326.023 750.5,320.5 C750.5,314.977 754.977,310.5 760.5,310.5 C766.023,310.5 770.5,314.977 770.5,320.5 C770.5,326.023 766.023,330.5 760.5,330.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M1000.5,450.5 C994.977,450.5 990.5,446.023 990.5,440.5 C990.5,434.977 994.977,430.5 1000.5,430.5 C1006.023,430.5 1010.5,434.977 1010.5,440.5 C1010.5,446.023 1006.023,450.5 1000.5,450.5 z" fill="#F0801A"/>
+      <path d="M1000.5,450.5 C994.977,450.5 990.5,446.023 990.5,440.5 C990.5,434.977 994.977,430.5 1000.5,430.5 C1006.023,430.5 1010.5,434.977 1010.5,440.5 C1010.5,446.023 1006.023,450.5 1000.5,450.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M880.5,90.5 C874.977,90.5 870.5,86.023 870.5,80.5 C870.5,74.977 874.977,70.5 880.5,70.5 C886.023,70.5 890.5,74.977 890.5,80.5 C890.5,86.023 886.023,90.5 880.5,90.5 z" fill="#F0801A"/>
+      <path d="M880.5,90.5 C874.977,90.5 870.5,86.023 870.5,80.5 C870.5,74.977 874.977,70.5 880.5,70.5 C886.023,70.5 890.5,74.977 890.5,80.5 C890.5,86.023 886.023,90.5 880.5,90.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 940, 584)">
+      <tspan x="-220" y="-20" font-family="Verdana-Bold" font-size="24" fill="#294270">Input: [[4,10],[7,1],[1,4]]</tspan>
+      <tspan x="-220" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">Result: 22.5</tspan>
+    </text>
+    <g>
+      <path d="M80.5,1080.5 L80.5,652.3" fill-opacity="0" stroke="#294270" stroke-width="2"/>
+      <path d="M84.1,652.3 L80.5,642.7 L76.9,652.3 z" fill="#294270" fill-opacity="1" stroke="#294270" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M80.5,1080.5 L508.7,1080.5" fill-opacity="0" stroke="#294270" stroke-width="2"/>
+      <path d="M508.7,1084.1 L518.3,1080.5 L508.7,1076.9 z" fill="#294270" fill-opacity="1" stroke="#294270" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <path d="M120.5,660.5 L120.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M160.5,660.5 L160.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M200.5,660.5 L200.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M240.5,660.5 L240.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M280.5,660.5 L280.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M320.5,660.5 L320.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M360.5,660.5 L360.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M400.5,660.5 L400.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M440.5,660.5 L440.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M480.5,660.5 L480.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,680.5 L80.5,680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,720.5 L80.5,720.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,760.5 L80.5,760.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,800.5 L80.5,800.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,840.5 L80.5,840.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,880.5 L80.5,880.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,920.5 L80.5,920.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,960.5 L80.5,960.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,1000.5 L80.5,1000.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,1040.5 L80.5,1040.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <text transform="matrix(1, 0, 0, 1, 63.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">0</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 1040)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 1000)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 960)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 920)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">4</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 880)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">5</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 840)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">6</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 800)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">7</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 760)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 720)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">9</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 57.063, 680)">
+      <tspan x="-17.062" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">10</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 118.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 158.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 198.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 238.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">4</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 278.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">5</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 318.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">6</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 358.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">7</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 398.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 438.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">9</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 482.062, 1100)">
+      <tspan x="-17.062" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">10</tspan>
+    </text>
+    <g>
+      <path d="M720.5,1080.5 L720.5,652.3" fill-opacity="0" stroke="#294270" stroke-width="2"/>
+      <path d="M724.1,652.3 L720.5,642.7 L716.9,652.3 z" fill="#294270" fill-opacity="1" stroke="#294270" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M720.5,1080.5 L1148.7,1080.5" fill-opacity="0" stroke="#294270" stroke-width="2"/>
+      <path d="M1148.7,1084.1 L1158.3,1080.5 L1148.7,1076.9 z" fill="#294270" fill-opacity="1" stroke="#294270" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <path d="M760.5,660.5 L760.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M800.5,660.5 L800.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M840.5,660.5 L840.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M880.5,660.5 L880.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M920.5,660.5 L920.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M960.5,660.5 L960.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1000.5,660.5 L1000.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1040.5,660.5 L1040.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1080.5,660.5 L1080.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1120.5,660.5 L1120.5,1080.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,680.5 L720.5,680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,720.5 L720.5,720.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,760.5 L720.5,760.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,800.5 L720.5,800.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,840.5 L720.5,840.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,880.5 L720.5,880.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,920.5 L720.5,920.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,960.5 L720.5,960.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,1000.5 L720.5,1000.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,1040.5 L720.5,1040.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <text transform="matrix(1, 0, 0, 1, 703.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">0</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 1040)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 1000)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 960)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 920)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">4</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 880)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">5</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 840)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">6</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 800)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">7</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 760)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 720)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">9</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 697.062, 680)">
+      <tspan x="-17.062" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">10</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 758.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 798.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 838.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 878.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">4</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 918.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">5</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 958.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">6</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 998.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">7</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1038.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1078.531, 1100)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">9</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1122.062, 1100)">
+      <tspan x="-17.062" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">10</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 300, 1169.5)">
+      <tspan x="-220" y="-5.5" font-family="Verdana-Bold" font-size="24" fill="#294270">Input: [[1,2],[3,8],[9,8],[7,1]]</tspan>
+      <tspan x="-220" y="23.5" font-family="Verdana-Bold" font-size="24" fill="#294270">Result: 40</tspan>
+    </text>
+    <g>
+      <path d="M840.5,970.5 C834.977,970.5 830.5,966.023 830.5,960.5 C830.5,954.977 834.977,950.5 840.5,950.5 C846.023,950.5 850.5,954.977 850.5,960.5 C850.5,966.023 846.023,970.5 840.5,970.5 z" fill="#F0801A"/>
+      <path d="M840.5,970.5 C834.977,970.5 830.5,966.023 830.5,960.5 C830.5,954.977 834.977,950.5 840.5,950.5 C846.023,950.5 850.5,954.977 850.5,960.5 C850.5,966.023 846.023,970.5 840.5,970.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M1000.5,970.5 C994.977,970.5 990.5,966.023 990.5,960.5 C990.5,954.977 994.977,950.5 1000.5,950.5 C1006.023,950.5 1010.5,954.977 1010.5,960.5 C1010.5,966.023 1006.023,970.5 1000.5,970.5 z" fill="#F0801A"/>
+      <path d="M1000.5,970.5 C994.977,970.5 990.5,966.023 990.5,960.5 C990.5,954.977 994.977,950.5 1000.5,950.5 C1006.023,950.5 1010.5,954.977 1010.5,960.5 C1010.5,966.023 1006.023,970.5 1000.5,970.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M1040.5,810.5 C1034.977,810.5 1030.5,806.023 1030.5,800.5 C1030.5,794.977 1034.977,790.5 1040.5,790.5 C1046.023,790.5 1050.5,794.977 1050.5,800.5 C1050.5,806.023 1046.023,810.5 1040.5,810.5 z" fill="#F0801A"/>
+      <path d="M1040.5,810.5 C1034.977,810.5 1030.5,806.023 1030.5,800.5 C1030.5,794.977 1034.977,790.5 1040.5,790.5 C1046.023,790.5 1050.5,794.977 1050.5,800.5 C1050.5,806.023 1046.023,810.5 1040.5,810.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 940, 1184)">
+      <tspan x="-220" y="-20" font-family="Verdana-Bold" font-size="24" fill="#294270">Input: [[3,3],[2,7],[5,9],</tspan>
+      <tspan x="-220" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">			   [8,7], [7,3]]</tspan>
+      <tspan x="-220" y="38" font-family="Verdana-Bold" font-size="24" fill="#294270">Result: 26</tspan>
+    </text>
+    <g>
+      <path d="M120.5,1000.5 L200.5,760.5 L440.5,760.5 L360.5,1040.5 z" fill="#69B3E3" fill-opacity="0.5"/>
+      <path d="M120.5,1000.5 L200.5,760.5 L440.5,760.5 L360.5,1040.5 z" fill-opacity="0" stroke="#294270" stroke-width="4"/>
+    </g>
+    <g>
+      <path d="M200.5,770.5 C194.977,770.5 190.5,766.023 190.5,760.5 C190.5,754.977 194.977,750.5 200.5,750.5 C206.023,750.5 210.5,754.977 210.5,760.5 C210.5,766.023 206.023,770.5 200.5,770.5 z" fill="#F0801A"/>
+      <path d="M200.5,770.5 C194.977,770.5 190.5,766.023 190.5,760.5 C190.5,754.977 194.977,750.5 200.5,750.5 C206.023,750.5 210.5,754.977 210.5,760.5 C210.5,766.023 206.023,770.5 200.5,770.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M120.5,1010.5 C114.977,1010.5 110.5,1006.023 110.5,1000.5 C110.5,994.977 114.977,990.5 120.5,990.5 C126.023,990.5 130.5,994.977 130.5,1000.5 C130.5,1006.023 126.023,1010.5 120.5,1010.5 z" fill="#F0801A"/>
+      <path d="M120.5,1010.5 C114.977,1010.5 110.5,1006.023 110.5,1000.5 C110.5,994.977 114.977,990.5 120.5,990.5 C126.023,990.5 130.5,994.977 130.5,1000.5 C130.5,1006.023 126.023,1010.5 120.5,1010.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M440.5,770.5 C434.977,770.5 430.5,766.023 430.5,760.5 C430.5,754.977 434.977,750.5 440.5,750.5 C446.023,750.5 450.5,754.977 450.5,760.5 C450.5,766.023 446.023,770.5 440.5,770.5 z" fill="#F0801A"/>
+      <path d="M440.5,770.5 C434.977,770.5 430.5,766.023 430.5,760.5 C430.5,754.977 434.977,750.5 440.5,750.5 C446.023,750.5 450.5,754.977 450.5,760.5 C450.5,766.023 446.023,770.5 440.5,770.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M360.5,1050.5 C354.977,1050.5 350.5,1046.023 350.5,1040.5 C350.5,1034.977 354.977,1030.5 360.5,1030.5 C366.023,1030.5 370.5,1034.977 370.5,1040.5 C370.5,1046.023 366.023,1050.5 360.5,1050.5 z" fill="#F0801A"/>
+      <path d="M360.5,1050.5 C354.977,1050.5 350.5,1046.023 350.5,1040.5 C350.5,1034.977 354.977,1030.5 360.5,1030.5 C366.023,1030.5 370.5,1034.977 370.5,1040.5 C370.5,1046.023 366.023,1050.5 360.5,1050.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M840.5,960.5 L800.5,800.5 L920.5,720.5 L1040.5,800.5 L1000.5,960.5 z" fill="#69B3E3" fill-opacity="0.5"/>
+      <path d="M840.5,960.5 L800.5,800.5 L920.5,720.5 L1040.5,800.5 L1000.5,960.5 z" fill-opacity="0" stroke="#294270" stroke-width="4"/>
+    </g>
+    <g>
+      <path d="M920.5,730.5 C914.977,730.5 910.5,726.023 910.5,720.5 C910.5,714.977 914.977,710.5 920.5,710.5 C926.023,710.5 930.5,714.977 930.5,720.5 C930.5,726.023 926.023,730.5 920.5,730.5 z" fill="#F0801A"/>
+      <path d="M920.5,730.5 C914.977,730.5 910.5,726.023 910.5,720.5 C910.5,714.977 914.977,710.5 920.5,710.5 C926.023,710.5 930.5,714.977 930.5,720.5 C930.5,726.023 926.023,730.5 920.5,730.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M800.5,810.5 C794.977,810.5 790.5,806.023 790.5,800.5 C790.5,794.977 794.977,790.5 800.5,790.5 C806.023,790.5 810.5,794.977 810.5,800.5 C810.5,806.023 806.023,810.5 800.5,810.5 z" fill="#F0801A"/>
+      <path d="M800.5,810.5 C794.977,810.5 790.5,806.023 790.5,800.5 C790.5,794.977 794.977,790.5 800.5,790.5 C806.023,790.5 810.5,794.977 810.5,800.5 C810.5,806.023 806.023,810.5 800.5,810.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M80.5,1680.5 L80.5,1252.3" fill-opacity="0" stroke="#294270" stroke-width="2"/>
+      <path d="M84.1,1252.3 L80.5,1242.7 L76.9,1252.3 z" fill="#294270" fill-opacity="1" stroke="#294270" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M80.5,1680.5 L508.7,1680.5" fill-opacity="0" stroke="#294270" stroke-width="2"/>
+      <path d="M508.7,1684.1 L518.3,1680.5 L508.7,1676.9 z" fill="#294270" fill-opacity="1" stroke="#294270" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <path d="M120.5,1260.5 L120.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M160.5,1260.5 L160.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M200.5,1260.5 L200.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M240.5,1260.5 L240.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M280.5,1260.5 L280.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M320.5,1260.5 L320.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M360.5,1260.5 L360.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M400.5,1260.5 L400.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M440.5,1260.5 L440.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M480.5,1260.5 L480.5,1680.5" fill-opacity="0" stroke="#69B3E3" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,1280.5 L80.5,1280.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,1320.5 L80.5,1320.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,1360.5 L80.5,1360.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,1400.5 L80.5,1400.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,1440.5 L80.5,1440.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,1480.5 L80.5,1480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,1520.5 L80.5,1520.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,1560.5 L80.5,1560.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,1600.5 L80.5,1600.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M500.5,1640.5 L80.5,1640.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <text transform="matrix(1, 0, 0, 1, 63.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">0</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 1640)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 1600)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 1560)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 1520)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">4</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 1480)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">5</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 1440)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">6</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 1400)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">7</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 1360)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 58.531, 1320)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">9</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 57.063, 1280)">
+      <tspan x="-17.062" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">10</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 118.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 158.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 198.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 238.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">4</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 278.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">5</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 318.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">6</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 358.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">7</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 398.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 438.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">9</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 482.062, 1700)">
+      <tspan x="-17.062" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">10</tspan>
+    </text>
+    <g>
+      <path d="M720.5,1680.5 L720.5,1252.3" fill-opacity="0" stroke="#294270" stroke-width="2"/>
+      <path d="M724.1,1252.3 L720.5,1242.7 L716.9,1252.3 z" fill="#294270" fill-opacity="1" stroke="#294270" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M720.5,1680.5 L1148.7,1680.5" fill-opacity="0" stroke="#294270" stroke-width="2"/>
+      <path d="M1148.7,1684.1 L1158.3,1680.5 L1148.7,1676.9 z" fill="#294270" fill-opacity="1" stroke="#294270" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <path d="M760.5,1260.5 L760.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M800.5,1260.5 L800.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M840.5,1260.5 L840.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M880.5,1260.5 L880.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M920.5,1260.5 L920.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M960.5,1260.5 L960.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1000.5,1260.5 L1000.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1040.5,1260.5 L1040.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1080.5,1260.5 L1080.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1120.5,1260.5 L1120.5,1680.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,1280.5 L720.5,1280.5" fill-opacity="0" stroke="#8FC7ED" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,1320.5 L720.5,1320.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,1360.5 L720.5,1360.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,1400.5 L720.5,1400.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,1440.5 L720.5,1440.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,1480.5 L720.5,1480.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,1520.5 L720.5,1520.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,1560.5 L720.5,1560.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,1600.5 L720.5,1600.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M1140.5,1640.5 L720.5,1640.5" fill-opacity="0" stroke="#6BA3CF" stroke-width="1" stroke-dasharray="3,2"/>
+    <text transform="matrix(1, 0, 0, 1, 703.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">0</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 1640)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 1600)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 1560)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 1520)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">4</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 1480)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">5</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 1440)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">6</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 1400)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">7</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 1360)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 698.531, 1320)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">9</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 697.062, 1280)">
+      <tspan x="-17.062" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">10</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 758.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">1</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 798.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">2</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 838.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">3</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 878.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">4</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 918.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">5</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 958.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">6</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 998.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">7</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1038.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1078.531, 1700)">
+      <tspan x="-8.531" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">9</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 1122.062, 1700)">
+      <tspan x="-17.062" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">10</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 300, 1805)">
+      <tspan x="-220" y="-41" font-family="Verdana-Bold" font-size="24" fill="#294270">Input: [[7,2],[3,2],[1,5],</tspan>
+      <tspan x="-220" y="-12" font-family="Verdana-Bold" font-size="24" fill="#294270">				[3,9],[7,9],[9,6]]</tspan>
+      <tspan x="-220" y="17" font-family="Verdana-Bold" font-size="24" fill="#294270">Result: 42</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 940, 1784)">
+      <tspan x="-220" y="-20" font-family="Verdana-Bold" font-size="24" fill="#294270">Input: [[4,1],[3,4],[3,7],[4,8],</tspan>
+      <tspan x="-220" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">			   [7,9],[9,6],[7,1]]</tspan>
+      <tspan x="-220" y="38" font-family="Verdana-Bold" font-size="24" fill="#294270">Result: 35.5</tspan>
+    </text>
+    <g>
+      <path d="M200.5,1610.5 C194.977,1610.5 190.5,1606.023 190.5,1600.5 C190.5,1594.977 194.977,1590.5 200.5,1590.5 C206.023,1590.5 210.5,1594.977 210.5,1600.5 C210.5,1606.023 206.023,1610.5 200.5,1610.5 z" fill="#F0801A"/>
+      <path d="M200.5,1610.5 C194.977,1610.5 190.5,1606.023 190.5,1600.5 C190.5,1594.977 194.977,1590.5 200.5,1590.5 C206.023,1590.5 210.5,1594.977 210.5,1600.5 C210.5,1606.023 206.023,1610.5 200.5,1610.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M201.123,1599.785 L120.5,1480.5 L201.123,1320.5 L362.368,1320.5 L440.5,1440.5 L362.368,1599.785 z" fill="#69B3E3" fill-opacity="0.5"/>
+      <path d="M201.123,1599.785 L120.5,1480.5 L201.123,1320.5 L362.368,1320.5 L440.5,1440.5 L362.368,1599.785 z" fill-opacity="0" stroke="#294270" stroke-width="4"/>
+    </g>
+    <g>
+      <path d="M360.5,1610.5 C354.977,1610.5 350.5,1606.023 350.5,1600.5 C350.5,1594.977 354.977,1590.5 360.5,1590.5 C366.023,1590.5 370.5,1594.977 370.5,1600.5 C370.5,1606.023 366.023,1610.5 360.5,1610.5 z" fill="#F0801A"/>
+      <path d="M360.5,1610.5 C354.977,1610.5 350.5,1606.023 350.5,1600.5 C350.5,1594.977 354.977,1590.5 360.5,1590.5 C366.023,1590.5 370.5,1594.977 370.5,1600.5 C370.5,1606.023 366.023,1610.5 360.5,1610.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M440.5,1450.5 C434.977,1450.5 430.5,1446.023 430.5,1440.5 C430.5,1434.977 434.977,1430.5 440.5,1430.5 C446.023,1430.5 450.5,1434.977 450.5,1440.5 C450.5,1446.023 446.023,1450.5 440.5,1450.5 z" fill="#F0801A"/>
+      <path d="M440.5,1450.5 C434.977,1450.5 430.5,1446.023 430.5,1440.5 C430.5,1434.977 434.977,1430.5 440.5,1430.5 C446.023,1430.5 450.5,1434.977 450.5,1440.5 C450.5,1446.023 446.023,1450.5 440.5,1450.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M880.5,1640.5 L840.5,1520.5 L840.5,1400.5 L880.5,1360.5 L1000.5,1320.5 L1080.5,1440.5 L1080.5,1520.5 L1000.5,1640.5 z" fill="#6BA3CF" fill-opacity="0.5"/>
+      <path d="M880.5,1640.5 L840.5,1520.5 L840.5,1400.5 L880.5,1360.5 L1000.5,1320.5 L1080.5,1440.5 L1080.5,1520.5 L1000.5,1640.5 z" fill-opacity="0" stroke="#294270" stroke-width="4"/>
+    </g>
+    <g>
+      <path d="M1080.5,1530.5 C1074.977,1530.5 1070.5,1526.023 1070.5,1520.5 C1070.5,1514.977 1074.977,1510.5 1080.5,1510.5 C1086.023,1510.5 1090.5,1514.977 1090.5,1520.5 C1090.5,1526.023 1086.023,1530.5 1080.5,1530.5 z" fill="#F0801A"/>
+      <path d="M1080.5,1530.5 C1074.977,1530.5 1070.5,1526.023 1070.5,1520.5 C1070.5,1514.977 1074.977,1510.5 1080.5,1510.5 C1086.023,1510.5 1090.5,1514.977 1090.5,1520.5 C1090.5,1526.023 1086.023,1530.5 1080.5,1530.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M1000.5,1650.5 C994.977,1650.5 990.5,1646.023 990.5,1640.5 C990.5,1634.977 994.977,1630.5 1000.5,1630.5 C1006.023,1630.5 1010.5,1634.977 1010.5,1640.5 C1010.5,1646.023 1006.023,1650.5 1000.5,1650.5 z" fill="#F0801A"/>
+      <path d="M1000.5,1650.5 C994.977,1650.5 990.5,1646.023 990.5,1640.5 C990.5,1634.977 994.977,1630.5 1000.5,1630.5 C1006.023,1630.5 1010.5,1634.977 1010.5,1640.5 C1010.5,1646.023 1006.023,1650.5 1000.5,1650.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M880.5,1650.5 C874.977,1650.5 870.5,1646.023 870.5,1640.5 C870.5,1634.977 874.977,1630.5 880.5,1630.5 C886.023,1630.5 890.5,1634.977 890.5,1640.5 C890.5,1646.023 886.023,1650.5 880.5,1650.5 z" fill="#F0801A"/>
+      <path d="M880.5,1650.5 C874.977,1650.5 870.5,1646.023 870.5,1640.5 C870.5,1634.977 874.977,1630.5 880.5,1630.5 C886.023,1630.5 890.5,1634.977 890.5,1640.5 C890.5,1646.023 886.023,1650.5 880.5,1650.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M840.5,1530.5 C834.977,1530.5 830.5,1526.023 830.5,1520.5 C830.5,1514.977 834.977,1510.5 840.5,1510.5 C846.023,1510.5 850.5,1514.977 850.5,1520.5 C850.5,1526.023 846.023,1530.5 840.5,1530.5 z" fill="#F0801A"/>
+      <path d="M840.5,1530.5 C834.977,1530.5 830.5,1526.023 830.5,1520.5 C830.5,1514.977 834.977,1510.5 840.5,1510.5 C846.023,1510.5 850.5,1514.977 850.5,1520.5 C850.5,1526.023 846.023,1530.5 840.5,1530.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M1000.5,1330.5 C994.977,1330.5 990.5,1326.023 990.5,1320.5 C990.5,1314.977 994.977,1310.5 1000.5,1310.5 C1006.023,1310.5 1010.5,1314.977 1010.5,1320.5 C1010.5,1326.023 1006.023,1330.5 1000.5,1330.5 z" fill="#F0801A"/>
+      <path d="M1000.5,1330.5 C994.977,1330.5 990.5,1326.023 990.5,1320.5 C990.5,1314.977 994.977,1310.5 1000.5,1310.5 C1006.023,1310.5 1010.5,1314.977 1010.5,1320.5 C1010.5,1326.023 1006.023,1330.5 1000.5,1330.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M1080.5,1450.5 C1074.977,1450.5 1070.5,1446.023 1070.5,1440.5 C1070.5,1434.977 1074.977,1430.5 1080.5,1430.5 C1086.023,1430.5 1090.5,1434.977 1090.5,1440.5 C1090.5,1446.023 1086.023,1450.5 1080.5,1450.5 z" fill="#F0801A"/>
+      <path d="M1080.5,1450.5 C1074.977,1450.5 1070.5,1446.023 1070.5,1440.5 C1070.5,1434.977 1074.977,1430.5 1080.5,1430.5 C1086.023,1430.5 1090.5,1434.977 1090.5,1440.5 C1090.5,1446.023 1086.023,1450.5 1080.5,1450.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M880.5,1370.5 C874.977,1370.5 870.5,1366.023 870.5,1360.5 C870.5,1354.977 874.977,1350.5 880.5,1350.5 C886.023,1350.5 890.5,1354.977 890.5,1360.5 C890.5,1366.023 886.023,1370.5 880.5,1370.5 z" fill="#F0801A"/>
+      <path d="M880.5,1370.5 C874.977,1370.5 870.5,1366.023 870.5,1360.5 C870.5,1354.977 874.977,1350.5 880.5,1350.5 C886.023,1350.5 890.5,1354.977 890.5,1360.5 C890.5,1366.023 886.023,1370.5 880.5,1370.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M840.5,1410.5 C834.977,1410.5 830.5,1406.023 830.5,1400.5 C830.5,1394.977 834.977,1390.5 840.5,1390.5 C846.023,1390.5 850.5,1394.977 850.5,1400.5 C850.5,1406.023 846.023,1410.5 840.5,1410.5 z" fill="#F0801A"/>
+      <path d="M840.5,1410.5 C834.977,1410.5 830.5,1406.023 830.5,1400.5 C830.5,1394.977 834.977,1390.5 840.5,1390.5 C846.023,1390.5 850.5,1394.977 850.5,1400.5 C850.5,1406.023 846.023,1410.5 840.5,1410.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M200.5,1330.5 C194.977,1330.5 190.5,1326.023 190.5,1320.5 C190.5,1314.977 194.977,1310.5 200.5,1310.5 C206.023,1310.5 210.5,1314.977 210.5,1320.5 C210.5,1326.023 206.023,1330.5 200.5,1330.5 z" fill="#F0801A"/>
+      <path d="M200.5,1330.5 C194.977,1330.5 190.5,1326.023 190.5,1320.5 C190.5,1314.977 194.977,1310.5 200.5,1310.5 C206.023,1310.5 210.5,1314.977 210.5,1320.5 C210.5,1326.023 206.023,1330.5 200.5,1330.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M120.5,1490.5 C114.977,1490.5 110.5,1486.023 110.5,1480.5 C110.5,1474.977 114.977,1470.5 120.5,1470.5 C126.023,1470.5 130.5,1474.977 130.5,1480.5 C130.5,1486.023 126.023,1490.5 120.5,1490.5 z" fill="#F0801A"/>
+      <path d="M120.5,1490.5 C114.977,1490.5 110.5,1486.023 110.5,1480.5 C110.5,1474.977 114.977,1470.5 120.5,1470.5 C126.023,1470.5 130.5,1474.977 130.5,1480.5 C130.5,1486.023 126.023,1490.5 120.5,1490.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M360.5,1330.5 C354.977,1330.5 350.5,1326.023 350.5,1320.5 C350.5,1314.977 354.977,1310.5 360.5,1310.5 C366.023,1310.5 370.5,1314.977 370.5,1320.5 C370.5,1326.023 366.023,1330.5 360.5,1330.5 z" fill="#F0801A"/>
+      <path d="M360.5,1330.5 C354.977,1330.5 350.5,1326.023 350.5,1320.5 C350.5,1314.977 354.977,1310.5 360.5,1310.5 C366.023,1310.5 370.5,1314.977 370.5,1320.5 C370.5,1326.023 366.023,1330.5 360.5,1330.5 z" fill-opacity="0" stroke="#F0801A" stroke-width="2"/>
+    </g>
+  </g>
+  <defs/>
+</svg>

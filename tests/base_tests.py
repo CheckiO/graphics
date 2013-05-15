@@ -4,6 +4,7 @@ import unittest
 import os
 import all_settings as settings
 from svg import SvgReader
+from cairosvg import parser
 
 PATHS = ['icons_tasks/',]
 
