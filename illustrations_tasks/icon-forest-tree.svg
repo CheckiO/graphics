@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30" height="30" viewBox="0, 0, 30, 30">
+  <g id="Background">
+    <rect x="0" y="0" width="30" height="30" fill="#FFFFFF"/>
+    <g stroke-width="1px">
+      <line x1="2" y1="0" x2="2" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="4" y1="0" x2="4" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="6" y1="0" x2="6" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="8" y1="0" x2="8" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="10" y1="0" x2="10" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="12" y1="0" x2="12" y2="30" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="14" y1="0" x2="14" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="16" y1="0" x2="16" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="18" y1="0" x2="18" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="20" y1="0" x2="20" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="22" y1="0" x2="22" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="24" y1="0" x2="24" y2="30" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="26" y1="0" x2="26" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="28" y1="0" x2="28" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="30" y1="0" x2="30" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="2" x2="30" y2="2" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="4" x2="30" y2="4" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="6" x2="30" y2="6" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="8" x2="30" y2="8" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="10" x2="30" y2="10" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="12" x2="30" y2="12" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="0" y1="14" x2="30" y2="14" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="16" x2="30" y2="16" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="18" x2="30" y2="18" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="20" x2="30" y2="20" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="22" x2="30" y2="22" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="24" x2="30" y2="24" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="0" y1="26" x2="30" y2="26" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="28" x2="30" y2="28" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="30" x2="30" y2="30" stroke="#AAAAAA" stroke-opacity="0.25"/>
+    </g>
+  </g>
+  <g id="Image">
+    <path d="M7.571,15 L2,21.5 L11.286,23.125 L11.286,28 L18.714,28 L18.714,23.125 L28,21.5 L22.429,15 L26.143,13.375 L15,2 L3.857,13.375 z" fill="#294270"/>
+  </g>
+  <defs/>
+</svg>
