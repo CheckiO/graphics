@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128" height="128" viewBox="0, 0, 128, 128">
+  <g id="Background">
+    <rect x="0" y="0" width="128" height="128" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Background"/>
+  <g id="Image">
+    <path d="M29.795,6 L98.205,6 C111.347,6 122,16.745 122,30 L122,98 C122,111.255 111.347,122 98.205,122 L29.795,122 C16.652,122 6,111.255 6,98 L6,30 C6,16.745 16.652,6 29.795,6 z" fill="#737370"/>
+    <path d="M55,92 C36.775,92 22,76.778 22,58 C22,39.222 36.775,24 55,24 C73.225,24 88,39.222 88,58 C88,76.778 73.225,92 55,92 z" fill-opacity="0" stroke="#FFFF00" stroke-width="4"/>
+    <path d="M81,84 C66.088,84 54,71.912 54,57 C54,42.088 66.088,30 81,30 C95.912,30 108,42.088 108,57 C108,71.912 95.912,84 81,84 z" fill-opacity="0" stroke="#FFFF00" stroke-width="4"/>
+    <path d="M56,112 C43.85,112 34,102.15 34,90 C34,77.85 43.85,68 56,68 C68.15,68 78,77.85 78,90 C78,102.15 68.15,112 56,112 z" fill-opacity="0" stroke="#FFFF00" stroke-width="4"/>
+    <path d="M78,92 C73.582,92 70,88.418 70,84 C70,79.582 73.582,76 78,76 C82.418,76 86,79.582 86,84 C86,88.418 82.418,92 78,92 z" fill="#EBEDED"/>
+  </g>
+  <defs/>
+</svg>

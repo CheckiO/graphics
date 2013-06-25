@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128" height="128" viewBox="0, 0, 128, 128">
+  <g id="Background">
+    <rect x="0" y="0" width="128" height="128" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Background"/>
+  <g id="Image">
+    <path d="M29.795,6 L98.205,6 C111.347,6 122,16.745 122,30 L122,98 C122,111.255 111.347,122 98.205,122 L29.795,122 C16.652,122 6,111.255 6,98 L6,30 C6,16.745 16.652,6 29.795,6 z" fill="#737370"/>
+    <path d="M26,26 L26,98" fill-opacity="0" stroke="#FFFF00" stroke-width="6" stroke-linecap="square"/>
+    <path d="M102,26 L102,98" fill-opacity="0" stroke="#FFFF00" stroke-width="6" stroke-linecap="square"/>
+    <path d="M84.61,62.064 Q84.61,71.005 81.827,78.075 Q79.044,85.146 74.796,88.928 Q71.603,91.765 67.794,92.882 Q63.985,94 58.771,94 L43.39,94 L43.39,30 L59.21,30 Q64.542,30 68.409,31.311 Q72.276,32.622 74.913,35.029 Q79.425,39.069 82.018,45.925 Q84.61,52.78 84.61,62.064 z M72.979,61.936 Q72.979,55.617 71.412,51.126 Q69.845,46.634 66.446,44.098 Q64.718,42.852 62.916,42.4 Q61.114,41.949 57.481,41.949 L54.64,41.949 L54.64,82.008 L57.481,82.008 Q61.495,82.008 63.37,81.471 Q65.245,80.934 67.032,79.515 Q70.108,76.936 71.544,72.617 Q72.979,68.297 72.979,61.936 z" fill="#FFFF00"/>
+  </g>
+  <defs/>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128" height="128" viewBox="0, 0, 128, 128">
+  <g id="Background">
+    <rect x="0" y="0" width="128" height="128" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Background"/>
+  <g id="Image">
+    <path d="M29.795,6 L98.205,6 C111.347,6 122,16.745 122,30 L122,98 C122,111.255 111.347,122 98.205,122 L29.795,122 C16.652,122 6,111.255 6,98 L6,30 C6,16.745 16.652,6 29.795,6 z" fill="#737370"/>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 63.146, 83.5)">
+        <tspan x="-12.041" y="13.5" font-family="Verdana-Bold" font-size="36" fill="#FFFF00" fill-opacity="0">x</tspan>
+      </text>
+      <path d="M74.73,97 L67.348,97 L63.129,91.094 L58.805,97 L51.562,97 L59.35,87.139 L51.686,77.26 L59.068,77.26 L63.217,83.061 L67.383,77.26 L74.643,77.26 L66.961,86.98 z" fill="#82D1F5"/>
+    </g>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 63.553, 43.5)">
+        <tspan x="-40.447" y="13.5" font-family="Verdana-Bold" font-size="36" fill="#FFFF00" fill-opacity="0">x+1</tspan>
+      </text>
+      <path d="M46.73,57 L39.348,57 L35.129,51.094 L30.805,57 L23.563,57 L31.35,47.139 L23.686,37.26 L31.068,37.26 L35.217,43.061 L39.383,37.26 L46.643,37.26 L38.961,46.98 z M74.574,47.719 L65.205,47.719 L65.205,57 L60.389,57 L60.389,47.719 L51.02,47.719 L51.02,43.008 L60.389,43.008 L60.389,33.727 L65.205,33.727 L65.205,43.008 L74.574,43.008 z M100.555,57 L83.082,57 L83.082,52.43 L88.602,52.43 L88.602,38.596 L83.082,38.596 L83.082,34.324 Q84.348,34.324 85.508,34.175 Q86.668,34.025 87.441,33.656 Q88.355,33.217 88.812,32.514 Q89.27,31.811 89.34,30.756 L95.158,30.756 L95.158,52.43 L100.555,52.43 z" fill="#82D1F5"/>
+    </g>
+    <path d="M23.105,66 L104,66" fill-opacity="0" stroke="#82D1F5" stroke-width="8"/>
+  </g>
+  <defs/>
+</svg>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128" height="128" viewBox="0, 0, 128, 128">
+  <g id="Background">
+    <rect x="0" y="0" width="128" height="128" fill="#000000" fill-opacity="0"/>
+    <g stroke-width="1px">
+      <line x1="4" y1="0" x2="4" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="8" y1="0" x2="8" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="12" y1="0" x2="12" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="16" y1="0" x2="16" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="20" y1="0" x2="20" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="24" y1="0" x2="24" y2="128" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="28" y1="0" x2="28" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="32" y1="0" x2="32" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="36" y1="0" x2="36" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="40" y1="0" x2="40" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="44" y1="0" x2="44" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="48" y1="0" x2="48" y2="128" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="52" y1="0" x2="52" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="56" y1="0" x2="56" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="60" y1="0" x2="60" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="64" y1="0" x2="64" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="68" y1="0" x2="68" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="72" y1="0" x2="72" y2="128" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="76" y1="0" x2="76" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="80" y1="0" x2="80" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="84" y1="0" x2="84" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="88" y1="0" x2="88" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="92" y1="0" x2="92" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="96" y1="0" x2="96" y2="128" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="100" y1="0" x2="100" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="104" y1="0" x2="104" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="108" y1="0" x2="108" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="112" y1="0" x2="112" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="116" y1="0" x2="116" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="120" y1="0" x2="120" y2="128" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="124" y1="0" x2="124" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="128" y1="0" x2="128" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="4" x2="128" y2="4" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="8" x2="128" y2="8" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="12" x2="128" y2="12" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="16" x2="128" y2="16" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="20" x2="128" y2="20" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="24" x2="128" y2="24" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="0" y1="28" x2="128" y2="28" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="32" x2="128" y2="32" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="36" x2="128" y2="36" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="40" x2="128" y2="40" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="44" x2="128" y2="44" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="48" x2="128" y2="48" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="0" y1="52" x2="128" y2="52" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="56" x2="128" y2="56" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="60" x2="128" y2="60" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="64" x2="128" y2="64" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="68" x2="128" y2="68" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="72" x2="128" y2="72" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="0" y1="76" x2="128" y2="76" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="80" x2="128" y2="80" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="84" x2="128" y2="84" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="88" x2="128" y2="88" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="92" x2="128" y2="92" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="96" x2="128" y2="96" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="0" y1="100" x2="128" y2="100" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="104" x2="128" y2="104" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="108" x2="128" y2="108" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="112" x2="128" y2="112" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="116" x2="128" y2="116" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="120" x2="128" y2="120" stroke="#AAAAAA" stroke-opacity="0.5"/>
+      <line x1="0" y1="124" x2="128" y2="124" stroke="#AAAAAA" stroke-opacity="0.25"/>
+      <line x1="0" y1="128" x2="128" y2="128" stroke="#AAAAAA" stroke-opacity="0.25"/>
+    </g>
+  </g>
+  <g id="Background"/>
+  <g id="Image">
+    <path d="M29.795,6 L98.205,6 C111.347,6 122,16.745 122,30 L122,98 C122,111.255 111.347,122 98.205,122 L29.795,122 C16.652,122 6,111.255 6,98 L6,30 C6,16.745 16.652,6 29.795,6 z" fill="#737370"/>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 64.041, 82.5)">
+        <tspan x="-12.041" y="13.5" font-family="Verdana-Bold" font-size="36" fill="#FFFF00" fill-opacity="0">x</tspan>
+      </text>
+      <path d="M75.625,96 L68.242,96 L64.023,90.094 L59.699,96 L52.457,96 L60.244,86.139 L52.58,76.26 L59.963,76.26 L64.111,82.061 L68.277,76.26 L75.537,76.26 L67.855,85.98 z" fill="#FFFFFF"/>
+    </g>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 64.447, 42.5)">
+        <tspan x="-40.447" y="13.5" font-family="Verdana-Bold" font-size="36" fill="#FFFF00" fill-opacity="0">x+1</tspan>
+      </text>
+      <path d="M47.625,56 L40.242,56 L36.023,50.094 L31.699,56 L24.457,56 L32.244,46.139 L24.58,36.26 L31.963,36.26 L36.111,42.061 L40.277,36.26 L47.537,36.26 L39.855,45.98 z M75.469,46.719 L66.1,46.719 L66.1,56 L61.283,56 L61.283,46.719 L51.914,46.719 L51.914,42.008 L61.283,42.008 L61.283,32.727 L66.1,32.727 L66.1,42.008 L75.469,42.008 z M101.449,56 L83.977,56 L83.977,51.43 L89.496,51.43 L89.496,37.596 L83.977,37.596 L83.977,33.324 Q85.242,33.324 86.402,33.175 Q87.562,33.025 88.336,32.656 Q89.25,32.217 89.707,31.514 Q90.164,30.811 90.234,29.756 L96.053,29.756 L96.053,51.43 L101.449,51.43 z" fill="#FFFFFF"/>
+    </g>
+    <path d="M24,65 L104.895,65" fill-opacity="0" stroke="#FFFF00" stroke-width="8"/>
+  </g>
+  <defs/>
+</svg>

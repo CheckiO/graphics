@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128" height="128" viewBox="0, 0, 128, 128">
+  <g id="Background">
+    <rect x="0" y="0" width="128" height="128" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Background"/>
+  <g id="Image">
+    <path d="M29.795,6 L98.205,6 C111.347,6 122,16.745 122,30 L122,98 C122,111.255 111.347,122 98.205,122 L29.795,122 C16.652,122 6,111.255 6,98 L6,30 C6,16.745 16.652,6 29.795,6 z" fill="#737370"/>
+    <path d="M24.867,17.829 L51,17.829 L51,43 L24.867,43 z" fill-opacity="0" stroke="#EBEDED" stroke-width="4"/>
+    <path d="M50.867,17.829 L77,17.829 L77,43 L50.867,43 z" fill-opacity="0" stroke="#EBEDED" stroke-width="4"/>
+    <path d="M76.867,17.829 L103,17.829 L103,43 L76.867,43 z" fill-opacity="0" stroke="#EBEDED" stroke-width="4"/>
+    <path d="M24.867,51.829 L51,51.829 L51,77 L24.867,77 z" fill-opacity="0" stroke="#EBEDED" stroke-width="4"/>
+    <path d="M24.867,83.829 L51,83.829 L51,109 L24.867,109 z" fill-opacity="0" stroke="#EBEDED" stroke-width="4"/>
+    <path d="M50.867,83.829 L77,83.829 L77,109 L50.867,109 z" fill-opacity="0" stroke="#EBEDED" stroke-width="4"/>
+    <path d="M76.867,83.829 L103,83.829 L103,109 L76.867,109 z" fill-opacity="0" stroke="#EBEDED" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 31.973, 17.076)"/>
+    <text transform="matrix(1, 0, 0, 1, 63.16, 29.329)">
+      <tspan x="-6.293" y="6.5" font-family="Verdana-Bold" font-size="18" fill="#82D1F5">b</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 90.163, 29.329)">
+      <tspan x="-5.295" y="6.5" font-family="Verdana-Bold" font-size="18" fill="#82D1F5">c</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 38.888, 95.329)">
+      <tspan x="-6.021" y="6.5" font-family="Verdana-Bold" font-size="18" fill="#82D1F5">x</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 64.725, 95.329)">
+      <tspan x="-5.858" y="6.5" font-family="Verdana-Bold" font-size="18" fill="#82D1F5">y</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 90.237, 95.329)">
+      <tspan x="-5.37" y="6.5" font-family="Verdana-Bold" font-size="18" fill="#82D1F5">z</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 38.879, 29.329)">
+      <tspan x="-6.012" y="6.5" font-family="Verdana-Bold" font-size="18" fill="#82D1F5">a</tspan>
+    </text>
+  </g>
+  <defs/>
+</svg>
